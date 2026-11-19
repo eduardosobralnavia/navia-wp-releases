@@ -1,0 +1,11 @@
+{
+  "version": "1.0.1",
+  "channel": "beta",
+  "released": "2026-11-19",
+  "package": "https://raw.githubusercontent.com/eduardosobralnavia/navia-wp-releases/main/zips/navia-automation-suite-1.0.1.zip",
+  "sha256": "907b32d09891f0e8e1bef0c4741e55541b88b036b8f823a8ccfd31b22e977f4a",
+  "requires": "6.5",
+  "requires_php": "8.1",
+  "tested": "7.1",
+  "changelog": "Version 1.0.1."
+}
